@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ajay",
+        "age": 19,
+        "email": "palai@gmail.com",
+        "pin": 7541,
+        "accountno": "QD2V6NCL",
+        "balance": 1900,
+        "type": "Savings"
+    },
+    {
+        "name": "Santanu Barik",
+        "age": 19,
+        "email": "santanu",
+        "pin": 7541,
+        "accountno": "LJSFTQTX",
+        "balance": 0,
+        "type": "Current"
+    },
+    {
+        "name": "raj",
+        "age": 20,
+        "email": "dfghjuikl@gmail.com",
+        "pin": 7878,
+        "accountno": "Z9UKF7WX",
+        "balance": 0,
+        "type": "Savings"
+    },
+    {
+        "name": "Raj Mund",
+        "age": 19,
+        "email": "raj@gmail.com",
+        "pin": 7141,
+        "accountno": "ZLSJYZP5",
+        "balance": 0,
+        "type": "Savings"
+    }
+]
